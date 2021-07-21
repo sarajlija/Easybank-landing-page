@@ -221,10 +221,8 @@
   }
 
   .footer{
-    margin-bottom: 0;
-    display: grid;
-    grid-template-rows: 1fr;
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     background-color: rgb(15, 53, 86);
     width:100%;
   }
