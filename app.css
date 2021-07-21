@@ -97,6 +97,7 @@ p{
   flex-direction: column;
   align-items: flex-start;
   margin:9rem 7rem;
+  padding: 5rem 0;
   z-index: 0;
 }
 .div-one button{
